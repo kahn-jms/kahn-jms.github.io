@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kahn-jms
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Helmholtz-AI-Energy/TBBRDet
+  - Helmholtz-AI-Energy/BaumBauen
+  - Helmholtz-AI-Energy/beamer-template
+  - kahn-jms/SneurIPS
+  - kahn-jms/vim_config
+  - kahn-jms/zoteroRemarkable
+  - kahn-jms/dotfiles
