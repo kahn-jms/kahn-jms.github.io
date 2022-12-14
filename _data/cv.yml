@@ -4,7 +4,7 @@
     - name: Full Name
       value: Dr. rer. nat. James Kahn
     - name: Nationality
-      value: Australian
+      value: Australian (native)
     - name: Languages
       value: English, German (B1)
 
@@ -15,18 +15,12 @@
       institution: Ludwig-Maximilians-Universität, Munich, Germany
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - TBA
     - title: Master of Science (Physics)
       institution: The University of Melbourne, Melbourne, Australia
       year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - TBA
     - title: Bachelor of Science
       institution: The University of Melbourne, Melbourne, Australia
       year: 2012
@@ -40,12 +34,7 @@
       institution: Helmholtz AI, Germany
       year: 2020 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - TBA
     - title: Postdoctoral fellow
       institution: Karlsruhe Institute of Technology, Germany
       year: 2019 - 2020
@@ -88,16 +77,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: TBA
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - TBA
+    - title: TBA
       items:
-        - Description 1.
-        - Description 2.
+        - TBA
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Guitar, Photography
