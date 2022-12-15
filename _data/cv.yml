@@ -13,17 +13,17 @@
   contents:
     - title: Ph.D. Physics
       institution: Ludwig-Maximilians-Universität, Munich, Germany
-      year: 2019
+      year: 2016 - 2019
       description:
         - TBA
     - title: Master of Science (Physics)
       institution: The University of Melbourne, Melbourne, Australia
-      year: 2015
+      year: 2013 - 2015
       description:
         - TBA
     - title: Bachelor of Science
       institution: The University of Melbourne, Melbourne, Australia
-      year: 2012
+      year: 2010 - 2012
       description:
         - Major in Physics
 
@@ -34,7 +34,16 @@
       institution: Helmholtz AI, Germany
       year: 2020 - present
       description:
-        - TBA
+        - AI consultant for energy researcher clients, 
+          leading & supporting role for research projects within the
+          Helmholtz association to accelerate research outcomes with AI expertise & HPC resources.
+        - title: Key roles
+          contents:
+            - Principle Investigator (P.I.) of €100k project grant on structural vulnerabilities of AI's integration into microgrids (project lead of five person team).
+            - Supervisor of multiple PhD research projects on the topics of solar plant operations, urban retrofit planning, and district heating monitoring.
+            - Developer for AI solutions and packages leveraging HPC resources.
+            - Publishing collaborative fundamental AI research within both national and international research collaborations.
+
     - title: Postdoctoral fellow
       institution: Karlsruhe Institute of Technology, Germany
       year: 2019 - 2020
@@ -54,6 +63,15 @@
     - title: Research computing assistant
       institution: ARC Centre of Excellence for Particle Physics at the Terascale (CoEPP), Melbourne, Australia
       year: 2011 - 2013
+      description:
+        - Designed and implemented cloud-hosted batch queue system (Tier-3) used by Australian
+          physics researchers working on the ATLAS and Belle experiments.
+        - Experience with Linux systems administration (RHEL, SL, Debian),
+          automated configuration  (Puppet, CFEngine),
+          monitoring (Ganglia, Nagios),
+          network administration (DHCP, Kerberos),
+          and job automation (Torque)
+
 
 
 #- title: Open Source Projects

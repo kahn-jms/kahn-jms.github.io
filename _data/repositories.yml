@@ -6,6 +6,8 @@ github_repos:
   - Helmholtz-AI-Energy/BaumBauen
   - Helmholtz-AI-Energy/beamer-template
   - kahn-jms/SneurIPS
+  - pnnl/DDKS
+  - feichtip/punzinet
   - kahn-jms/vim_config
   - kahn-jms/zoteroRemarkable
   - kahn-jms/dotfiles
