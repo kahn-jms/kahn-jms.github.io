@@ -38,12 +38,6 @@
         - AI consultant for energy researcher clients, 
           leading & supporting role for research projects within the
           Helmholtz association to accelerate research outcomes with AI expertise & HPC resources.
-        - title: Key roles
-          contents:
-            - Principle Investigator (P.I.) of €100k project grant on structural vulnerabilities of AI's integration into microgrids (project lead of five person team).
-            - Supervisor of multiple PhD research projects on the topics of solar plant operations, urban retrofit planning, and district heating monitoring.
-            - Developer for AI solutions and packages leveraging HPC resources.
-            - Publishing collaborative fundamental AI research within both national and international research collaborations.
 
     - title: Postdoctoral fellow
       institution: Karlsruhe Institute of Technology, Germany
@@ -54,12 +48,6 @@
             - Belle~II liaison and operations support for GridKa Tier-1 site
             - Machine-learning researcher and supervisor for local Belle~II physics team.
           
-        - title: Key roles
-          contents:
-          - Manager of Belle~II experiment computing resources at GridKa Tier-1 site.
-          - Systems administration and development for GridKa operations support.
-          - Manager of Belle~II raw data setup and testing, and BaBar experiment raw data transfer and hosting.
-          - Supervisor of four Master's students in Belle~II team for machine-learning research.
 
     - title: Research computing assistant
       institution: ARC Centre of Excellence for Particle Physics at the Terascale (CoEPP), Melbourne, Australia
