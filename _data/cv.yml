@@ -15,12 +15,13 @@
       institution: Ludwig-Maximilians-Universität, Munich, Germany
       year: 2016 - 2019
       description:
-        - TBA
+        - Hadronic Tag Sensitivity Study of \(\mathbf{B \rightarrow K^{(*)} \nu \bar{\nu}}\) and
+          Selective Background Monte Carlo Simulation at Belle II
     - title: Master of Science (Physics)
       institution: The University of Melbourne, Melbourne, Australia
       year: 2013 - 2015
       description:
-        - TBA
+        - Investigations of \(\mathbf{B^0 \rightarrow K_S^0 \pi^0}\) decays with the Belle experiment
     - title: Bachelor of Science
       institution: The University of Melbourne, Melbourne, Australia
       year: 2010 - 2012
@@ -95,12 +96,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: TBA
+    - title: Deep learning
       items: 
-        - TBA
-    - title: TBA
+        - Computer vision
+        - Self-supervised learning
+        - Graph neural networks
+    - title: Computing
       items:
-        - TBA
+        - Grid computing
+        - HPC systems
 
 - title: Other Interests
   type: list
