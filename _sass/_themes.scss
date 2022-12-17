@@ -58,7 +58,7 @@ html[data-theme='dark'] {
   --global-footer-text-color: #{$gruvbox-background-0-5};
   --global-footer-link-color: #{$gruvbox-background-0-hard};
   --global-distill-app-color: #{$gruvbox-foreground-0-soft};
-  --global-divider-color: #424246;
+  --global-divider-color: #{$gruvbox-foreground-0-4};
   --global-card-bg-color: #{$grey-900};
 
   .fa-sun {
