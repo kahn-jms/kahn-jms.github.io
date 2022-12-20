@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 Welcome to my page, this is a collection of my works, both professional and private. 
 
 I'm an **applied AI** practitioner, meaning I apply machine learning to real 
-world problems.
+world problems beyond the standard benchmarks.
 
 Check out the contact links below for how to reach me.
 
