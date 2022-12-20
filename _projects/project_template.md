@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: project 2
+description: a project with a background image
+img: assets/img/3.jpg
+<!--redirect: https://unsplash.com-->
+importance: 2
+category: template
 ---
 
 Every project has a beautiful feature showcase page.
