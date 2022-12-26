@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A selection of professional and private repositories
+description: A selection of my professional and private repositories
 nav: true
 nav_order: 3
 ---
