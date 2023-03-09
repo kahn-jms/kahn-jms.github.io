@@ -31,13 +31,13 @@
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="title">{{entry.title}}</a>
           {%- elsif entry.doi %}
-						<a href="https://doi.org/{{ entry.doi }}" class="title">{{entry.title}}</a>
+            <a href="https://doi.org/{{ entry.doi }}" class="title">{{entry.title}}</a>
           {%- elsif entry.html %}
-						<a href="{{ entry.html }}" class="title">{{entry.title}}</a>
+            <a href="{{ entry.html }}" class="title">{{entry.title}}</a>
           {%- elsif entry.url %}
-						<a href="{{ entry.url }}" class="title">{{entry.title}}</a>
+            <a href="{{ entry.url }}" class="title">{{entry.title}}</a>
           {%- else %}
-							<div class="title">{{entry.title}}</div>
+            <div class="title">{{entry.title}}</div>
           {%- endif %}
 
           <!-- Author -->
