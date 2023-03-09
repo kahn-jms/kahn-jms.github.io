@@ -22,7 +22,7 @@ table {
 }
 
 a, table.table a {
-  color: var(--global-theme-color);
+	color: var(--global-theme-color);
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -125,9 +125,11 @@ blockquote {
   margin-bottom: 2rem;
   font-size: 0.875rem;
   a {
-    color: inherit;
+    //color: inherit;
+    color: var(--global-theme-color);
     &:hover {
-      color: var(--global-theme-color);
+      //color: var(--global-theme-color);
+      color: var(--global-hover-color);
       text-decoration: none;
     }
   }
@@ -520,6 +522,7 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+        color: var(--global-text-color-light);
       }
       .author {
         a {

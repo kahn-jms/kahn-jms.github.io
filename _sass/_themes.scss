@@ -63,9 +63,9 @@ html[data-theme='dark'] {
 	// Gruvbox dark theme
 	--global-bg-color: #{$gruvbox-dark-background-0-hard};
   --global-code-bg-color: #{$gruvbox-dark-background-1};
-  --global-text-color: #{$gruvbox-dark-foreground-0-soft};
+  --global-text-color: #{$gruvbox-dark-foreground-1};
   --global-text-color-light: #{$gruvbox-dark-foreground-0-soft};
-  --global-theme-color: #{$gruvbox-neutral-green};
+  --global-theme-color: #{$gruvbox-bright-green};
   --global-hover-color: #{$gruvbox-neutral-green};
   --global-footer-bg-color: #{$gruvbox-dark-foreground-0-hard};
   --global-footer-text-color: #{$gruvbox-dark-background-0-5-soft};
