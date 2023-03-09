@@ -6,7 +6,7 @@ subtitle: Senior AI consultant @ <a href='https://www.helmholtz.ai/'>Helmholtz A
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_KA.jpg
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
@@ -29,5 +29,3 @@ Day-to-day I work primarily with:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Check out the contact links below for how to reach me.
-
-\*Disclaimer: Not actually a cowboy.\*
